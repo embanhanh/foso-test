@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "The OM Lounge - Dịch vụ chuyên nghiệp hàng đầu",
+    "description": "Nền tảng dịch vụ cao cấp, chuyên nghiệp và đáng tin cậy cho doanh nghiệp của bạn.",
+    "services": {
+      "title": "Dịch vụ | The OM Lounge - Trải nghiệm chữa lành chuyên nghiệp",
+      "description": "Khám phá các dịch vụ chăm sóc sức khỏe và làm đẹp tại The OM Lounge. Chúng tôi mang đến trải nghiệm chữa lành toàn diện cho tâm hồn và cơ thể."
+    }
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "features": "Tính năng",
+    "about": "Về chúng tôi",
+    "news": "Tin tức",
+    "pricing": "Bảng giá",
+    "contact": "Liên hệ",
+    "cta": "Bắt đầu ngay",
+    "cart": "Giỏ hàng",
+    "languages": {
+      "vi": "TIẾNG VIỆT",
+      "en": "ENGLISH"
+    },
+    "branding": {
+      "name": "THE OM",
+      "subName": "LOUNGE",
+      "logoAlt": "Logo The Om Lounge"
+    }
+  },
+  "hero": {
+    "badge": "Đối tác tin cậy #1",
+    "title": "Giải pháp dịch vụ",
+    "titleHighlight": "chuyên nghiệp",
+    "titleSuffix": "cho doanh nghiệp của bạn",
+    "description": "Chúng tôi cung cấp các giải pháp dịch vụ toàn diện, giúp doanh nghiệp của bạn tăng trưởng nhanh chóng và bền vững.",
+    "ctaPrimary": "Bắt đầu miễn phí",
+    "ctaSecondary": "Xem demo",
+    "aria": {
+      "background": "Hình nền Spa The OM Lounge",
+      "main": "Phần giới thiệu dịch vụ"
+    },
+    "stats": {
+      "clients": "Khách hàng",
+      "projects": "Dự án hoàn thành",
+      "satisfaction": "Hài lòng"
+    }
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "subtitle": "Giải pháp toàn diện cho mọi nhu cầu của doanh nghiệp",
+    "learnMore": "Tìm hiểu thêm",
+    "noService": "Không tìm thấy dịch vụ nào phù hợp với tìm kiếm của bạn."
+  },
+  "features": {
+    "title": "Tại sao chọn chúng tôi?",
+    "subtitle": "Chúng tôi mang đến những giá trị vượt trội để đối tác tin tưởng lâu dài"
+  },
+  "testimonials": {
+    "subtitle": "NHẬN XÉT TỪ",
+    "title": "Khách Hàng",
+    "readMore": "Xem thêm"
+  },
+  "leadForm": {
+    "title": "Nhận tư vấn miễn phí",
+    "subtitle": "Để lại thông tin, chuyên gia của chúng tôi sẽ liên hệ trong 24 giờ",
+    "name": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "message": "Tin nhắn",
+    "namePlaceholder": "Nguyễn Văn A",
+    "emailPlaceholder": "email@example.com",
+    "phonePlaceholder": "0901 234 567",
+    "messagePlaceholder": "Mô tả ngắn về nhu cầu của bạn...",
+    "submit": "Gửi yêu cầu",
+    "submitting": "Đang gửi...",
+    "successTitle": "Gửi thành công!",
+    "successMessage": "Chúng tôi sẽ liên hệ với bạn trong vòng 24 giờ.",
+    "errorMessage": "Có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "footer": {
+    "sitemap": "SITEMAP",
+    "contact": "LIÊN HỆ",
+    "phone": "+84 89 812 12 97",
+    "address1": "6 Đường C, Phú Mỹ, Quận 7, TP Hồ Chí Minh",
+    "address2": "(gần Crescent Mall)",
+    "weekday": "Thứ 2 - Thứ 6:",
+    "weekdayTime": "09:00 - 19:00",
+    "weekend": "Thứ 7 - Chủ nhật:",
+    "weekendTime": "09:00 - 20:00",
+    "bookingText": "Đặt lịch ngay",
+    "copyright": "© 2025 — Copyright The OM Lounge. All rights reserved."
+  },
+  "error": {
+    "title": "Đã xảy ra lỗi",
+    "description": "Xin lỗi, có sự cố kỹ thuật xảy ra. Vui lòng thử lại.",
+    "retry": "Thử lại"
+  },
+  "notFound": {
+    "title": "404 - Không tìm thấy trang",
+    "description": "Rất tiếc, trang bạn đang tìm kiếm không tồn tại hoặc đã được di chuyển.",
+    "backHome": "Quay về trang chủ"
+  },
+  "bookingCta": {
+    "heading": "Đặt lịch hẹn chữa lành",
+    "description": "Đến The OM Lounge để xả stress và làm mới mình. Vẻ đẹp bắt đầu từ những điều nhỏ nhất và lan tỏa đến cả tâm hồn.",
+    "button": "TRẢI NGHIỆM NGAY"
+  },
+  "cart": {
+    "title": "Giỏ Hàng",
+    "empty": "Giỏ hàng của bạn đang trống.",
+    "remove": "Xóa",
+    "continue": "Tiếp Tục",
+    "technician": "Kỹ thuật viên",
+    "total": "Tổng thanh toán",
+    "minutes": "phút",
+    "bookTitle": "Xác Nhận Đặt Lịch",
+    "bookButton": "Đặt Lịch",
+    "customerName": "Tên khách hàng",
+    "phone": "Số điện thoại",
+    "selectDate": "Chọn ngày",
+    "selectTime": "Chọn khung giờ",
+    "booked": "Đã đặt",
+    "back": "Quay lại",
+    "bookingSuccess": "Đặt lịch thành công!",
+    "bookingError": "Có lỗi xảy ra. Vui lòng thử lại.",
+    "successDialog": {
+      "title": "Gửi Yêu Cầu Thành Công!",
+      "description": "Cảm ơn bạn đã đặt dịch vụ tại The OM Lounge. Chúng tôi đã nhận được thông tin đặt lịch từ bạn và sẽ liên hệ lại trong thời gian sớm nhất."
+    }
+  }
+}

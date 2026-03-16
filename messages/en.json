@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "EliteService Platform - Professional Services Leader",
+    "description": "Premium, professional and reliable service platform for your business.",
+    "services": {
+      "title": "Services | The OM Lounge - Professional Healing Experience",
+      "description": "Discover wellness and beauty services at The OM Lounge. We provide a comprehensive healing experience for your soul and body."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "features": "Features",
+    "about": "About Us",
+    "news": "News",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "cta": "Get Started",
+    "cart": "Cart",
+    "languages": {
+      "vi": "VIETNAMESE",
+      "en": "ENGLISH"
+    },
+    "branding": {
+      "name": "THE OM",
+      "subName": "LOUNGE",
+      "logoAlt": "The Om Lounge Logo"
+    }
+  },
+  "hero": {
+    "badge": "Trusted Partner #1",
+    "title": "Professional service",
+    "titleHighlight": "solutions",
+    "titleSuffix": "for your business",
+    "description": "We provide comprehensive service solutions to help your business grow quickly and sustainably.",
+    "ctaPrimary": "Start for free",
+    "ctaSecondary": "View demo",
+    "aria": {
+      "background": "The OM Lounge Spa Background",
+      "main": "Service Introduction Section"
+    },
+    "stats": {
+      "clients": "Clients",
+      "projects": "Completed Projects",
+      "satisfaction": "Satisfaction"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for all your business needs",
+    "learnMore": "Learn More",
+    "noService": "No services found matching your search criteria."
+  },
+  "features": {
+    "title": "Why Choose Us?",
+    "subtitle": "We deliver outstanding values that build long-term partner trust"
+  },
+  "testimonials": {
+    "subtitle": "TESTIMONIALS",
+    "title": "Our Clients",
+    "readMore": "Read more"
+  },
+  "leadForm": {
+    "title": "Get Free Consultation",
+    "subtitle": "Leave your details and our experts will contact you within 24 hours",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "email@example.com",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "messagePlaceholder": "Briefly describe your needs...",
+    "submit": "Send Request",
+    "submitting": "Sending...",
+    "successTitle": "Successfully Sent!",
+    "successMessage": "We will contact you within 24 hours.",
+    "errorMessage": "An error occurred. Please try again."
+  },
+  "footer": {
+    "sitemap": "SITEMAP",
+    "contact": "CONTACT",
+    "phone": "+84 89 812 12 97",
+    "address1": "6 C Street, Phu My, District 7, HCMC",
+    "address2": "(near Crescent Mall)",
+    "weekday": "Mon - Fri:",
+    "weekdayTime": "09:00 - 19:00",
+    "weekend": "Sat - Sun:",
+    "weekendTime": "09:00 - 20:00",
+    "bookingText": "Book Now",
+    "copyright": "© 2025 — Copyright The OM Lounge. All rights reserved."
+  },
+  "error": {
+    "title": "Something went wrong",
+    "description": "Sorry, a technical error occurred. Please try again.",
+    "retry": "Try Again"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "bookingCta": {
+    "heading": "Book a Healing Appointment",
+    "description": "Come to The OM Lounge to relieve stress and refresh yourself. Beauty starts from the smallest things and spreads to the soul.",
+    "button": "EXPERIENCE NOW"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty.",
+    "remove": "Remove",
+    "continue": "Continue",
+    "technician": "Technician",
+    "total": "Total",
+    "minutes": "min",
+    "bookTitle": "Confirm Booking",
+    "bookButton": "Book Now",
+    "customerName": "Customer Name",
+    "phone": "Phone Number",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time Slot",
+    "booked": "Booked",
+    "back": "Back",
+    "bookingSuccess": "Booking confirmed!",
+    "bookingError": "An error occurred. Please try again.",
+    "successDialog": {
+      "title": "Request Sent Successfully!",
+      "description": "Thank you for booking services at The OM Lounge. We have received your booking information and will contact you as soon as possible."
+    }
+  }
+}
